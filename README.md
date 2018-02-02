@@ -1,7 +1,6 @@
 # Road-Segmentation
 Code for SMAI Project on Road Segmentation with different Classifiers.
 
-Presentation is still in updation
 
 
 ## Dependencies :
